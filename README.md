@@ -56,11 +56,11 @@ Run Locally
 
 Clone the repository:
 
-git clone YOUR_GITHUB_REPOSITORY_URL
+| git clone YOUR_GITHUB_REPOSITORY_URL |
 
 Navigate to the project folder:
 
-cd framelab
+| cd framelab |
 
 Open index.html in your browser.
 
