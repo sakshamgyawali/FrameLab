@@ -39,34 +39,16 @@ Create the Effect – Framelab places text between the original image and the ex
 Export – Download your finished design as a high-resolution PNG.
 
 🛠️ Built With
+## 🛠️ Built With
 
-Technology
-
-Purpose
-
-HTML5
-
-Application structure
-
-CSS3
-
-Styling and responsive layout
-
-JavaScript
-
-Application functionality
-
-Canvas 2D API
-
-Image compositing and rendering
-
-@imgly/background-removal
-
-AI-powered background removal
-
-Google Fonts
-
-Typography customization
+| Technology | Purpose |
+|---|---|
+| HTML5 | Application structure |
+| CSS3 | Styling and responsive layout |
+| JavaScript | Application functionality |
+| Canvas 2D API | Image compositing and rendering |
+| @imgly/background-removal | AI-powered background removal |
+| Google Fonts | Typography customization |
 
 ⚙️ Getting Started
 
